@@ -6,7 +6,7 @@
 <p>Ubuntu 22.04</p>
 
 
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/karuapp/pruebaofuscado.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
+<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf pruebaofuscado && sudo git clone https://github.com/karuapp/pruebaofuscado.git && cd pruebaofuscado && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
 
 
 
